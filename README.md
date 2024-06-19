@@ -30,7 +30,8 @@ AI 관련 사항들을 개발자 관점으로 소개하는 스터디.
 7 | ??/??| ?? |  ?? | .
 7 | ??/??| ?? |  ?? | .
 8 | ??/??| ?? |  ?? | .
-8 | ??/??| ?? |  ?? | .
+8 | 06/19(수) | 성담빌딩(우형) | 이은경 | [VAE 학습 실습](https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/03_vae/01_autoencoder/autoencoder.ipynb)
+
 
 
 
